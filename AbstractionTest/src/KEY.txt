@@ -1,0 +1,9 @@
+I - initial pos
+E - ending pos
+P - current pos
+G - goal speed
+C - current speed
+D - distance required to decelerate
+A - accel exponent
+N - decel exponent
+S - solution this loop
